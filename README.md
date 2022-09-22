@@ -7,7 +7,7 @@ I don't quite know where I want to be headed yet in terms of a job, so for now I
 
 
 
-## My skills
+# My skills
 
 I'll repeat myself, I'm quite new here so I don't know a lot just yet, but this is what I've learnt so far ^^
 
@@ -43,8 +43,11 @@ I'll repeat myself, I'm quite new here so I don't know a lot just yet, but this 
  
  
  
- ## Social
+ # Social
  
+ [Twitter](https://twitter.com/NestorTech_009)
+ 
+ []
  
  ---
 
