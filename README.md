@@ -1,5 +1,5 @@
 # Hi I'm Nestea!
-I'm a solo begginer programer and sometimes game developer.
+I'm a Spanish solo programer and sometimes game developer, I'm still learning and I'm open to any questions!
 
 For the past year and a bit I've been learning different programming laguages and adquiring new skills on the subject; tech amazes me and I want to be a programmer. 
 
