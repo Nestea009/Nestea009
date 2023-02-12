@@ -1,59 +1,72 @@
 # Hi I'm Nestea!
-I'm a Spanish solo programer and sometimes game developer, I'm still learning and I'm open to any questions!
+I'm a Spanish solo programer and sometimes game developer, I'm still learning and I'm open to suggestions!🔥
 
-For the past year and a bit I've been learning different programming laguages and adquiring new skills on the subject; tech amazes me and I want to be a programmer. 
+For the past couple years I've been learning different programming laguages and adquiring new skills on the matter; tech amazes me and I want to be a programmer!
 
 I don't quite know where I want to be headed yet in terms of a job, so for now I'm just learning the basics.
 
-
+My biggest proyect so far is my personal website, click [here](https://nestea009.github.io) if you want to take a peek. 😋😋
 
 # My skills
 
-I'll repeat myself, I'm quite new here so I don't know a lot just yet, but this is what I've learnt so far ^^
+Here's a bit of what I've learned so far ^^
 
-### **-My Programming Languages -->**
+ ---
 
- *Python*
+### *My Programming Languages*
+
+ *Python*  🐍
  
- *C#*
+ *C#*  #️⃣
  
- *HTML*
+ *HTML*  💻
  
- *CSS*
+ *CSS*  ⌨
  
-### **-My OSs -->**
+ *Rust*  🦀
  
-  *Windows*
+ ---
+ 
+ 
+ ### *My Game Dev Tools*
+ 
+  *Unity*  🎦
   
-  *Kali Linux*
- 
- ### *-My Game Dev Tools -->*
- 
-  *Unity*
+  *Piskel*  🔷
   
-  *Piskel*
+  *Audacity*  🎧
   
-  *Audacity*
+   ---
   
- ### *-Other Tech Skills -->*
+  
+ ### *Other Tech Skills*
  
-  *GIMP*
+  *GIMP*  🖌
   
-  *Olive*
+  *Olive*  🫒
  
+  ---
+ 
+ 
+ ### *Statistics*
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nestea009&count_private=true&theme=tokyonight&showicons=true)]()
+
+ 
+  ---
  
  
  # Social
  
- [Twitter](https://twitter.com/NestorTech_009)
+ [Twitter](https://twitter.com/NestorTech_009)  🦜
  
- [Website](https://nestea009.github.io)
+ [Website](https://nestea009.github.io)  🌐
  
- Email = nestorblancotech@gmail.com
+ Email = nestorblancotech@gmail.com  📨
  
  ---
 
-If you want anything from me, feel free to let me know anywhere that you can, and I'll be happy to help!
+If you want anything from me, feel free to let me know wherever you want, and I'll be happy to help!😉
 
 
 <!---
