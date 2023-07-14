@@ -24,22 +24,24 @@ Here's a bit of what I've learned so far ^^
  *CSS*  ⌨
  
  *Rust*  🦀
+
+ *JavaScript* 🌙
  
  ---
+
+ ### *My Frameworks* 
+
+ *React* ⚛
+
+ *Unity*  🎦
+
+ ---
  
- 
- ### *My Game Dev Tools*
- 
-  *Unity*  🎦
-  
+ ### *Other Tech Skills*
+
   *Piskel*  🔷
   
   *Audacity*  🎧
-  
-   ---
-  
-  
- ### *Other Tech Skills*
  
   *GIMP*  🖌
   
