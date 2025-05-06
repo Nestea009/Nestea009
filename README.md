@@ -1,7 +1,7 @@
 # Hi I'm Nestea!
 I'm a Spanish solo programer and sometimes game developer, I'm still learning and I'm open to suggestions!🔥
 
-For the past couple years I've been learning different programming laguages and adquiring new skills on the matter; tech amazes me and I want to be a programmer!
+For the past  years I've been learning different programming laguages and adquiring new skills on the matter; tech amazes me and I want to be a programmer!
 
 I don't quite know where I want to be headed yet in terms of a job, so for now I'm just learning the basics.
 
@@ -26,14 +26,14 @@ Here's a bit of what I've learned so far ^^
  *Rust*  🦀
 
  *JavaScript* 🌙
+
+ *C++* 💯
  
  ---
 
  ### *My Frameworks* 
 
  *React* ⚛
-
- *Unity*  🎦
 
  ---
  
@@ -46,7 +46,9 @@ Here's a bit of what I've learned so far ^^
   *GIMP*  🖌
   
   *Olive*  🫒
- 
+
+  *Unity*  🎦
+
   ---
  
  
