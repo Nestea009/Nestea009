@@ -1,4 +1,4 @@
-# Hi I'm Nestea!
+# Hi I'm Néstor!
 I'm a Spanish solo programer and sometimes game developer, I'm still learning and I'm open to suggestions!🔥
 
 For the past  years I've been learning different programming laguages and adquiring new skills on the matter; tech amazes me and I want to be a programmer!
